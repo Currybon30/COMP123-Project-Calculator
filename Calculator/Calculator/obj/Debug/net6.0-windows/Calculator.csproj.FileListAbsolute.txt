@@ -1,0 +1,35 @@
+D:\Centennial College Materials\SECOND SEMESTER\COMP 123 - PROGRAMMING II\CALCULATOR\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.exe
+D:\Centennial College Materials\SECOND SEMESTER\COMP 123 - PROGRAMMING II\CALCULATOR\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.deps.json
+D:\Centennial College Materials\SECOND SEMESTER\COMP 123 - PROGRAMMING II\CALCULATOR\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+D:\Centennial College Materials\SECOND SEMESTER\COMP 123 - PROGRAMMING II\CALCULATOR\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.dll
+D:\Centennial College Materials\SECOND SEMESTER\COMP 123 - PROGRAMMING II\CALCULATOR\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.pdb
+D:\Centennial College Materials\SECOND SEMESTER\COMP 123 - PROGRAMMING II\CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.AssemblyReference.cache
+D:\Centennial College Materials\SECOND SEMESTER\COMP 123 - PROGRAMMING II\CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+D:\Centennial College Materials\SECOND SEMESTER\COMP 123 - PROGRAMMING II\CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Centennial College Materials\SECOND SEMESTER\COMP 123 - PROGRAMMING II\CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\Centennial College Materials\SECOND SEMESTER\COMP 123 - PROGRAMMING II\CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+D:\Centennial College Materials\SECOND SEMESTER\COMP 123 - PROGRAMMING II\CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\Centennial College Materials\SECOND SEMESTER\COMP 123 - PROGRAMMING II\CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.dll
+D:\Centennial College Materials\SECOND SEMESTER\COMP 123 - PROGRAMMING II\CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\refint\Calculator.dll
+D:\Centennial College Materials\SECOND SEMESTER\COMP 123 - PROGRAMMING II\CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.pdb
+D:\Centennial College Materials\SECOND SEMESTER\COMP 123 - PROGRAMMING II\CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+D:\Centennial College Materials\SECOND SEMESTER\COMP 123 - PROGRAMMING II\CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\ref\Calculator.dll
+D:\Centennial College Materials\SECOND SEMESTER\COMP 123 - PROGRAMMING II\CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.myCal.resources
+D:\Centennial College Materials\SECOND SEMESTER\COMP 123 - PROGRAMMING II\CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.Properties.Resources.resources
+D:\Centennial College Materials\SECOND SEMESTER - DONE\COMP 123 - PROGRAMMING II\ASSIGNMENT 8 - CALCULATOR\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.exe
+D:\Centennial College Materials\SECOND SEMESTER - DONE\COMP 123 - PROGRAMMING II\ASSIGNMENT 8 - CALCULATOR\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.deps.json
+D:\Centennial College Materials\SECOND SEMESTER - DONE\COMP 123 - PROGRAMMING II\ASSIGNMENT 8 - CALCULATOR\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+D:\Centennial College Materials\SECOND SEMESTER - DONE\COMP 123 - PROGRAMMING II\ASSIGNMENT 8 - CALCULATOR\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.dll
+D:\Centennial College Materials\SECOND SEMESTER - DONE\COMP 123 - PROGRAMMING II\ASSIGNMENT 8 - CALCULATOR\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.pdb
+D:\Centennial College Materials\SECOND SEMESTER - DONE\COMP 123 - PROGRAMMING II\ASSIGNMENT 8 - CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.myCal.resources
+D:\Centennial College Materials\SECOND SEMESTER - DONE\COMP 123 - PROGRAMMING II\ASSIGNMENT 8 - CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.Properties.Resources.resources
+D:\Centennial College Materials\SECOND SEMESTER - DONE\COMP 123 - PROGRAMMING II\ASSIGNMENT 8 - CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+D:\Centennial College Materials\SECOND SEMESTER - DONE\COMP 123 - PROGRAMMING II\ASSIGNMENT 8 - CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Centennial College Materials\SECOND SEMESTER - DONE\COMP 123 - PROGRAMMING II\ASSIGNMENT 8 - CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\Centennial College Materials\SECOND SEMESTER - DONE\COMP 123 - PROGRAMMING II\ASSIGNMENT 8 - CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+D:\Centennial College Materials\SECOND SEMESTER - DONE\COMP 123 - PROGRAMMING II\ASSIGNMENT 8 - CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\Centennial College Materials\SECOND SEMESTER - DONE\COMP 123 - PROGRAMMING II\ASSIGNMENT 8 - CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.dll
+D:\Centennial College Materials\SECOND SEMESTER - DONE\COMP 123 - PROGRAMMING II\ASSIGNMENT 8 - CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\refint\Calculator.dll
+D:\Centennial College Materials\SECOND SEMESTER - DONE\COMP 123 - PROGRAMMING II\ASSIGNMENT 8 - CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.pdb
+D:\Centennial College Materials\SECOND SEMESTER - DONE\COMP 123 - PROGRAMMING II\ASSIGNMENT 8 - CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+D:\Centennial College Materials\SECOND SEMESTER - DONE\COMP 123 - PROGRAMMING II\ASSIGNMENT 8 - CALCULATOR\Calculator\Calculator\obj\Debug\net6.0-windows\ref\Calculator.dll

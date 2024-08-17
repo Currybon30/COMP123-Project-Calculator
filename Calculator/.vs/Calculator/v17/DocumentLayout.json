@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Centennial College Materials\\SECOND SEMESTER - DONE\\COMP 123 - PROGRAMMING II\\ASSIGNMENT 8 - CALCULATOR\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F783B50F-783A-4D13-97DF-F8EE23EA05C7}|Calculator\\Calculator.csproj|d:\\centennial college materials\\second semester - done\\comp 123 - programming ii\\assignment 8 - calculator\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F783B50F-783A-4D13-97DF-F8EE23EA05C7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F783B50F-783A-4D13-97DF-F8EE23EA05C7}|Calculator\\Calculator.csproj|d:\\centennial college materials\\second semester - done\\comp 123 - programming ii\\assignment 8 - calculator\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F783B50F-783A-4D13-97DF-F8EE23EA05C7}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 530,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Centennial College Materials\\SECOND SEMESTER - DONE\\COMP 123 - PROGRAMMING II\\ASSIGNMENT 8 - CALCULATOR\\Calculator\\Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator\\Form1.cs",
+              "ToolTip": "D:\\Centennial College Materials\\SECOND SEMESTER - DONE\\COMP 123 - PROGRAMMING II\\ASSIGNMENT 8 - CALCULATOR\\Calculator\\Calculator\\Form1.cs [Design]",
+              "RelativeToolTip": "Calculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:03:27.304Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Centennial College Materials\\SECOND SEMESTER - DONE\\COMP 123 - PROGRAMMING II\\ASSIGNMENT 8 - CALCULATOR\\Calculator\\Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator\\Form1.cs",
+              "ToolTip": "D:\\Centennial College Materials\\SECOND SEMESTER - DONE\\COMP 123 - PROGRAMMING II\\ASSIGNMENT 8 - CALCULATOR\\Calculator\\Calculator\\Form1.cs",
+              "RelativeToolTip": "Calculator\\Form1.cs",
+              "ViewState": "AQIAANwAAAAAAAAAAAD4v50BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:59:50.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
